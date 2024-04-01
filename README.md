@@ -29,3 +29,4 @@ ctrl + z to stop
 
 ``cat /etc/shells`` used to check all shells in the system
 
+``chmod +x 01_baisc.sh`` used to check all shells in the system
