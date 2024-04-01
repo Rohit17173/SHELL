@@ -1,9 +1,25 @@
 # SHELL
 
+## LINUX QUESTIONS
+how to check the permisssion of the file. : ls -ltr
+
+
+
 ## WHAT IS SHELL SCRIPTING
 shell script consist of set of commands to perform a task.
 all the commands executes sequentially
 some tasks like file manipulation, program execution, user interaction, automation of tasks can be done.
+
+## how to run a script
+shell script shold have the execute permission
+run using.
+./shript.sh
+/path/script.sh
+bash script.sh
+
+ctrl + c terminate
+ctrl + z to stop
+
 
 ## LINUX COMMANDS
 
