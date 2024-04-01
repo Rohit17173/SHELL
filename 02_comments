@@ -1,3 +1,8 @@
 #!/bin/bash
 echo "checking the comment";
 #this is single line comment
+<<comment
+this is
+multiline
+comment
+
